@@ -13,12 +13,10 @@
   "author": "",
   "license": "ISC",
   "devDependencies": {
-    "gh-pages": "^5.0.0",
     "lite-server": "^2.3.0"
   },
   "dependencies": {
     "@truffle/hdwallet-provider": "^2.1.6",
     "dotenv": "^16.0.3"
-  },
-  "homepage": "http://cromicron.github.io/election-dapp-webhost",
+  }
 }
